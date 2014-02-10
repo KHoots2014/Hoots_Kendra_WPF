@@ -2,4 +2,4 @@
 
 var yearBorn =1955;
 
-Console.log(yearBorn);
+console. log(yearBorn)
