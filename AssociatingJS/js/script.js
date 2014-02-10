@@ -6,4 +6,4 @@ var isStudent = true; //Boolean Variable
 
 var firstName = "Kendra";
 
-var Phrase = 'I don\'t know';
+var Phrase = 'I don\'t know \n You\'ll have to speak with the professor';
