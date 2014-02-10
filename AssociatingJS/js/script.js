@@ -1,3 +1,5 @@
 // Arrays
 
-Var muppetNames = ["Kermit","Miss Piggy", "Gonzo", "Rizzo"];
+Var muppetNames = ["Kermit","Miss Piggy", "Gonzo", "Rizzo"]; // 0,1,2,3
+
+console. log(muppetNames);
