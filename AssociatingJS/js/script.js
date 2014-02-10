@@ -1,4 +1,7 @@
 //Defining Variables
 
-var age;
-age =26
+var age; //declaration
+age =26 //definition
+//storage container = value
+
+
