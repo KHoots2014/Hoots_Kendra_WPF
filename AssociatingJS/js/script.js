@@ -1,1 +1,2 @@
-alert("This is in the js file");
+//javascript
+var yearBorn =1966;
