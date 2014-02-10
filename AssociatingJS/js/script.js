@@ -2,6 +2,8 @@
 
 var age = 26; // Number Variable
 
-Var isStudent = true; //Boolean Variable
+var isStudent = true; //Boolean Variable
 
-Var firstName = "Kendra";
+var firstName = "Kendra";
+
+var Phrase = 'I don\'t know';
