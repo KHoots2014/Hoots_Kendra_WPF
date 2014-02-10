@@ -1,5 +1,5 @@
 //javascript
 
-var yearBorn =1966;
+var yearBorn =1955;
 
 Console.log(yearBorn);
