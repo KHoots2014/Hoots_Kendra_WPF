@@ -1,5 +1,7 @@
-// Expressions - Age Example
+// Expressions - Arithmetic Operators
 
-var yearBorn = 1987;
-var age = 2014 - yearBorn - 1;
-console. log(age);
+// area of the triangle is half of the with time the height
+
+var width = 4;
+var height = 5;
+var area;
