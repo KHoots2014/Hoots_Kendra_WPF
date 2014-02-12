@@ -1,7 +1,4 @@
-// casting
-var areaCode = 701;
-var firstPart = 403;
-var secPart = 4413
-//(701) 403-4413)
-var phoneNo = "(" + String(areaCode) + ")" + String(firstPart) + "-" + String(secPart);
-console. log(phoneNo);
+// Expressions - Assignment Operators
+var a = 3;
+a + 4;
+console. log(a);
