@@ -1,5 +1,5 @@
 // Expressions
 
-var a= 2;
-a = a + 3;
+var a= 2; //setting up pur variable a and defines it with 2
+a = a + 3; //add 3 to a
 console. log(a);
