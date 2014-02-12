@@ -1,6 +1,5 @@
-// Expressions
+// Expressions - Age Example
 
-var a= 2; //setting up pur variable a and defines it with 2
-var b;
-b = a + 3; //add 3 to a
-console. log(b);
+var yearBorn = 1987;
+var age = 2014 - yearBorn;
+console. log(age);
