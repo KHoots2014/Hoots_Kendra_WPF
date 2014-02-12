@@ -10,5 +10,5 @@ var average = (quiz1 + quiz2 + quiz3 + quiz4)/4;
 
 var legth = 7;
 var width = 6;
-var perimeter = legth * 2 + width * 2;
+var perimeter = (legth * 2) + (width * 2);
 console. log(perimeter);
