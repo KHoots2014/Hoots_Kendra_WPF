@@ -1,8 +1,4 @@
-// Expressions- Concatenating Strings
-
-var a = 6;
-var b = 7;
-
-var result = a + b;
-
+// casting
+var stringVar = "6"
+var result = 7 + stringVar;
 console. log(result);
