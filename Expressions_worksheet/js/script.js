@@ -31,3 +31,18 @@ pizza = 4;
 slice = pizza * slicePizza % people;
 //Printout "Sparky got X slices of pizza.
 console. log("Sparky got " + slice + " slices of pizza.");
+
+// problem 4 -Average shopping bill
+
+// Given Variables
+
+var grocTotals = [150, 200, 100, 120, 95];
+
+//Result Variable
+// total amount
+var total = grocTotals [0] + grocTotals[1] + grocTotals[2] + grocTotals[3] + grocTotals[4];
+// average amount spent
+var average = total / 5;
+
+//Print out
+console. log("You have spent a total of $" + total + " on groceries over 5 weeks. That is an average of $" + average + " per week");
