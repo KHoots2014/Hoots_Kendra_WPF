@@ -46,3 +46,26 @@ var average = total / 5;
 
 //Print out
 console. log("You have spent a total of $" + total + " on groceries over 5 weeks. That is an average of $" + average + " per week");
+
+//Problem 5 - Discounts
+//Given Variables
+
+const price = 19.00;
+const tax = 7.5;
+var percentage = 30;
+var disPerc = percentage *.01;
+var sTax = tax * .01;
+
+var discription = "The earings are black nickel plated with glass beads.";
+
+//Result Variables
+//price without tax
+var discount  = price * disPerc;
+var disPrice = price - discount;
+//price with tax
+var saleTax = disPrice * sTax;
+var salePrice = disPrice +saleTax;
+
+//print out “Your X was originally $X, but after a X% discount, it is now $X without tax, and $X with tax.
+
+console. log( "Your earings was originally $" + price + " but after a " + percentage + "% discount, it is now $" + disPrice + " without tax, and $" + salePrice + " with tax.");
