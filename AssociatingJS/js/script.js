@@ -4,4 +4,5 @@ var width = prompt("we are calculationg the area of a rectangle. \nPlease enter 
 var height = prompt("Please enter the height.");
 var area = width * height;
 //console. log(area);//
-alert("the Area of your rectangle is ")
+var result = "The area of your rectangle is " + area + " sq feet";
+alert(result)
